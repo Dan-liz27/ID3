@@ -132,5 +132,5 @@ def print_tree(node, depth=0):
         print_tree(child, depth + 1)
 
 # Run the app
-if __name__ == "_main_":
+if __name__ == "__main__":
     main()
